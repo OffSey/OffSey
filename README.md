@@ -27,10 +27,8 @@
 </p>
 
 ## 📊 Stats:
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=OffSey&show_icons=true" alt="OffSey Stats">
-  </p>
-
+| <a href="https://github.com/OffSey/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OffSey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="OffSey github stats" /></a> | <a href="https://github.com/OffSey/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OffSey&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 ---
 
 ## 📬 Contact:  
