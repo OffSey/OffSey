@@ -26,6 +26,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
+## 📊 Stats:
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=OffSey&show_icons=true" alt="OffSey Stats">
+  </p>
+
 ---
 
 ## 📬 Contact:  
