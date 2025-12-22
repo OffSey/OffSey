@@ -33,14 +33,6 @@ Developer at **Hridoy Development**, a FiveM development store delivering script
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-| <a href="https://github.com/OffSey/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OffSey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="OffSey github stats" /></a> | <a href="https://github.com/OffSey/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OffSey&layout=compact&theme=buefy&hide_border=true" /></a> |
-</p>
-
----
-
 ## Links
 
 <p align="center">
