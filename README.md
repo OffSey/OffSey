@@ -17,8 +17,8 @@ Owner of **FiveGift**, a FiveM giveaway platform with over **750 giveaways creat
 ### Elite Store  
 Owner of **Elite Store**, a FiveM script store providing optimized and well-designed scripts focused on performance, stability, and player experience.
 
-### Hridoy Development  
-Developer at **Hridoy Development**, a FiveM development store delivering scripts and resources designed for modern servers.
+### FiveM Developer
+Developer for shops and server in FiveM.
 
 ---
 
