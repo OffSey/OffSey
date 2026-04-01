@@ -11,11 +11,8 @@ Owner and developer of **XionShield**, a Discord bot built for the FiveM communi
 XionShield allows servers to submit cheater reports, centralize information, and receive alerts when a reported cheater joins their Discord server.  
 The bot is fully compliant with Discord Terms of Service and focuses on transparency, reliability, and abuse prevention.
 
-### FiveGift  
-Owner of **FiveGift**, a FiveM giveaway platform with over **750 giveaways created**, used by servers to reward and engage their communities.
-
-### Elite Store  
-Owner of **Elite Store**, a FiveM script store providing optimized and well-designed scripts focused on performance, stability, and player experience.
+### Cube Scripts  
+Owner of **Cube Scripts**, a FiveM script store providing optimized and well-designed scripts focused on performance, stability, and player experience.
 
 ### FiveM Developer
 Developer for shops and server in FiveM.
@@ -38,6 +35,4 @@ Developer for shops and server in FiveM.
 <p align="center">
   <a href="https://guns.lol/offsey">guns.lol/offsey</a><br>
   <a href="https://xionshield.eu">xionshield.eu</a><br>
-  <a href="https://fivegift.gg">fivegift.gg</a><br>
-  <a href="https://elitedevelopment.tebex.io">elitedevelopment.tebex.io</a>
 </p>
