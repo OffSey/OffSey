@@ -14,7 +14,7 @@ The bot is fully compliant with Discord Terms of Service and focuses on transpar
 ### Cube Scripts  
 Owner of **Cube Scripts**, a FiveM script store providing optimized and well-designed scripts focused on performance, stability, and player experience.
 
-### FiveM Developer
+### Developer
 Developer for shops and server in FiveM.
 
 ---
