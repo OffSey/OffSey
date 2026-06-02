@@ -7,9 +7,7 @@
 I am a developer focused on the FiveM ecosystem, building tools and platforms designed to improve server quality, performance, and player experience.
 
 ### XionShield  
-Owner and developer of **XionShield**, a Discord bot built for the FiveM community to help identify and manage cheaters.  
-XionShield allows servers to submit cheater reports, centralize information, and receive alerts when a reported cheater joins their Discord server.  
-The bot is fully compliant with Discord Terms of Service and focuses on transparency, reliability, and abuse prevention.
+Owner and developer of **XionShield**, a Discord bot and FiveM Anticheat.
 
 ### Cube Scripts  
 Owner of **Cube Scripts**, a FiveM script store providing optimized and well-designed scripts focused on performance, stability, and player experience.
