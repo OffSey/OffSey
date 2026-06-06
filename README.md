@@ -14,8 +14,8 @@
 
 I'm a developer focused on the **FiveM ecosystem**, building tools and platforms designed to improve server quality, performance, and player experience.
 
-- 🛡️ **Owner & Developer of [XionShield](https://xionshield.eu)** — a Discord bot and FiveM Anticheat.
-- 🧊 **Owner of Cube Scripts** — a FiveM script store providing optimized, well-designed scripts focused on performance, stability, and player experience.
+- 🛡️ **Owner & Developer of [XionShield](https://xionshield.eu)** - a Discord bot and FiveM Anticheat.
+- 🧊 **Owner of Cube Scripts** - a FiveM script store providing optimized, well-designed scripts focused on performance, stability, and player experience.
 - 💼 **Developer** for shops and servers in FiveM.
 
 ---
