@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm OffSey 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2C2D72&center=true&vCenter=true&width=600&lines=FiveM+Developer;FiveM+%26+Creator;Building+tools+for+better+servers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=FiveM+Developer;FiveM+%26+Creator;Building+tools+for+scripts+and+servers" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=offsey&label=Profile+views&color=2C2D72&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=offsey&label=Profile+views&color=A855F7&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -16,7 +16,7 @@ I'm a developer focused on the **FiveM ecosystem**, building tools and platforms
 
 - 🛡️ **Owner & Developer of [XionShield](https://xionshield.eu)** — a Discord bot and FiveM Anticheat.
 - 🧊 **Owner of Cube Scripts** — a FiveM script store providing optimized, well-designed scripts focused on performance, stability, and player experience.
-- 💼 **Freelance Developer** for shops and servers in FiveM.
+- 💼 **Developer** for shops and servers in FiveM.
 
 ---
 
@@ -27,6 +27,8 @@ I'm a developer focused on the **FiveM ecosystem**, building tools and platforms
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
 </p>
@@ -36,15 +38,15 @@ I'm a developer focused on the **FiveM ecosystem**, building tools and platforms
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=offsey&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="OffSey's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=offsey&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="OffSey's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=offsey&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=offsey&theme=react&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offsey&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=offsey&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -53,7 +55,7 @@ I'm a developer focused on the **FiveM ecosystem**, building tools and platforms
 
 <p align="center">
   <a href="https://xionshield.eu">
-    <img src="https://img.shields.io/badge/XionShield-2C2D72?style=for-the-badge&logo=shield&logoColor=white" alt="XionShield" />
+    <img src="https://img.shields.io/badge/XionShield-A855F7?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="XionShield" />
   </a>
   <a href="https://guns.lol/offsey">
     <img src="https://img.shields.io/badge/guns.lol-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="guns.lol" />
@@ -63,5 +65,5 @@ I'm a developer focused on the **FiveM ecosystem**, building tools and platforms
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C2D72&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=footer" alt="footer" />
 </p>
