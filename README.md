@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm OffSey 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2C2D72&center=true&vCenter=true&width=600&lines=FiveM+Developer;Anticheat+%26+Script+Creator;Building+tools+for+better+servers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2C2D72&center=true&vCenter=true&width=600&lines=FiveM+Developer;FiveM+%26+Creator;Building+tools+for+better+servers" alt="Typing SVG" />
 </p>
 
 <p align="center">
