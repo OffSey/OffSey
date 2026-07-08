@@ -47,7 +47,7 @@ I'm a developer focused on the **FiveM ecosystem**, building tools and platforms
   <img src="https://streak-stats.demolab.com/?user=offsey&theme=react&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 </p> -->
 
-https://discord.com/users/307530035672252416
+[![Discord Presence](https://lanyard.cnrad.dev/api/307530035672252416?theme=dark)](https://discord.com/users/307530035672252416)
 
 
 <p align="center">
