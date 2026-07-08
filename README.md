@@ -43,9 +43,12 @@ I'm a developer focused on the **FiveM ecosystem**, building tools and platforms
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=offsey&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="OffSey's GitHub stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=offsey&theme=react&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
-</p>
+</p> -->
+
+https://discord.com/users/307530035672252416
+
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=offsey&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8" alt="Top Languages" />
