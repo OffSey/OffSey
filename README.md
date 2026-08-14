@@ -40,20 +40,28 @@ I'm a developer focused on the **FiveM ecosystem**, building tools and platforms
 
 ## 📊 GitHub Stats
 
-<!--
-  If the two cards below stop loading, replace "github-readme-stats.vercel.app"
-  with your own Vercel instance (see the deploy steps) - the public one is
-  frequently rate limited by the GitHub API.
--->
+<p align="center">
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=offsey&theme=nord_dark&bg_color=0D1117&border_color=0D1117&title_color=E0A800&icon_color=E0A800&text_color=C9D1D9" alt="Stats" />
+</p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=offsey&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400&bg_color=0D1117&title_color=E0A800&icon_color=E0A800&text_color=C9D1D9" alt="OffSey's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offsey&layout=compact&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=E0A800&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=offsey&theme=nord_dark&bg_color=0D1117&border_color=0D1117&title_color=E0A800&text_color=C9D1D9" alt="Repos per language" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=offsey&theme=nord_dark&bg_color=0D1117&border_color=0D1117&title_color=E0A800&text_color=C9D1D9" alt="Most commit language" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=offsey&hide_border=true&background=0D1117&stroke=E0A800&ring=E0A800&fire=E0A800&currStreakLabel=E0A800&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 </p>
+
+<!--
+  Old cards, kept in case you deploy your own github-readme-stats instance.
+  Replace "YOUR-INSTANCE" with your Vercel domain and uncomment.
+
+  <p align="center">
+    <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=offsey&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=E0A800&icon_color=E0A800&text_color=C9D1D9" alt="OffSey's GitHub stats" />
+    <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=offsey&layout=compact&hide_border=true&bg_color=0D1117&title_color=E0A800&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  </p>
+-->
 
 ---
 
