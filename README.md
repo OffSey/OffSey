@@ -71,7 +71,7 @@ I'm a developer focused on the **FiveM ecosystem**, building tools and platforms
   <a href="https://xionshield.eu">
     <img src="https://img.shields.io/badge/XionShield-E0A800?style=for-the-badge&labelColor=E0A800" alt="XionShield" />
   </a>
-  <a href="https://xiongift.eu">
+  <a href="https://xiongift.com">
     <img src="https://img.shields.io/badge/XionGift-E0A800?style=for-the-badge&labelColor=E0A800" alt="XionGift" />
   </a>
   <a href="https://cube-scripts.com/">
